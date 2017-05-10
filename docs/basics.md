@@ -39,3 +39,6 @@ JDK is the development kit used for development and required only by developers.
 
     JDK -> Java Development Tools + JRE
     JRE -> JVM + Libraries
+
+## What is JIT Compiler?
+JIT Compiler stands for Just In Time Compiler. It is a part of the Java Virtual Machine and helps in increases the performance of the class file execution. It compiles parts of the byte code with similar functionality at the same time and thus reduces the time needed for compilation.
