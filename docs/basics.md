@@ -6,6 +6,7 @@ A Java program is compiled to a class file format. This class file is not execut
 
 ## What are some of the properties of Java?
 Java programs have the following properties:
+
     1. Object Oriented
     2. Encapsulation
     3. Abstraction
@@ -21,17 +22,20 @@ ClassLoader is a component of JVM which is used to load the classes. There are d
 
 ## What is JRE?
 JRE stands for Java Runtime Environment. This provides the environment for the Java programs to execute. This consists of:
+
     1. Java Virtual Machine
     2. Set of Libraries to be used for execution of Java programs. 
 
 ## What is JDK?
 JDK stands for Java Development Kit. This JDK consists 
+
     1. Java development tools such as javac (Java Compiler)
     2. Java Runtime environment. 
+
 This is required only for 'development' of Java programs. 
 
 ## What is the difference between JDK, JRE & JVM? 
 JDK is the development kit used for development and required only by developers. JRE is the Java Runtime environment. JVM is the Java Virtual Machine.
+
     JDK -> Java Development Tools + JRE
     JRE -> JVM + Libraries
-    
