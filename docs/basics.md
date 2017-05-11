@@ -6,13 +6,12 @@ A Java program is compiled to a class file format. This class file is not execut
 
 ## What are some of the properties of Java?
 Java programs have the following properties:
-
-    1. Object Oriented
-    2. Encapsulation
-    3. Abstraction
-    4. Inheritance
-    5. Polymorphism
-    6. Platform Independent
+1. Object Oriented
+2. Encapsulation
+3. Abstraction
+4. Inheritance
+5. Polymorphism
+6. Platform Independent
 
 ## What is JVM?
 JVM stands for Java Virtual Machine. The compiled Java programs, i.e. class files in bytecode format, are executed on the Java Virtual Machine. 
@@ -22,23 +21,20 @@ ClassLoader is a component of JVM which is used to load the classes. There are d
 
 ## What is JRE?
 JRE stands for Java Runtime Environment. This provides the environment for the Java programs to execute. This consists of:
-
-    1. Java Virtual Machine
-    2. Set of Libraries to be used for execution of Java programs. 
+1. Java Virtual Machine
+2. Set of Libraries to be used for execution of Java programs. 
 
 ## What is JDK?
 JDK stands for Java Development Kit. This JDK consists 
-
-    1. Java development tools such as javac (Java Compiler)
-    2. Java Runtime environment. 
+1. Java development tools such as javac (Java Compiler)
+2. Java Runtime environment. 
 
 This is required only for 'development' of Java programs. 
 
 ## What is the difference between JDK, JRE & JVM? 
 JDK is the development kit used for development and required only by developers. JRE is the Java Runtime environment. JVM is the Java Virtual Machine.
-
-    JDK -> Java Development Tools + JRE
-    JRE -> JVM + Libraries
+* JDK -> Java Development Tools + JRE
+* JRE -> JVM + Libraries
 
 ## What is JIT Compiler?
 JIT Compiler stands for Just In Time Compiler. It is a part of the Java Virtual Machine and helps in increases the performance of the class file execution. It compiles parts of the byte code with similar functionality at the same time and thus reduces the time needed for compilation.
